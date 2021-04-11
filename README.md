@@ -1,5 +1,5 @@
 # Library-Management-System
-Sem3 Project
+**Project**
 REQUIREMENT: graphics.h must be configured on CodeBlocks
 PLEASE DOWNLOAD THE 12 IMAGE FILES IN THE SAME FOLDER IN WHICH YOU HAVE THE DS PROJECT CODE FOR THE ANIMATION TO WORK!
 
